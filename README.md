@@ -5,3 +5,5 @@
 - add text to brand1
 
 - add say_goodbye.py
+
+- fix conflig issue
